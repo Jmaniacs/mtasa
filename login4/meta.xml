@@ -1,0 +1,18 @@
+<meta>
+	<info author="Rendet" description="login" version="1" type="script" />
+	
+	<script src="server.lua" type="server"/>
+	<script src="client.lua" type="client" cache="false" compile="1"/>
+	<file src="images/background.jpg"/>
+	<file src="images/greenform.png"/>
+	<file src="images/logoprovince.png"/>
+	<file src="images/pane.png"/>
+	<file src="images/top.png"/>
+	<file src="images/whiteform.png"/>
+	
+	
+	
+    <file src="fonts/Roboto-Bold.ttf"/>
+    <file src="fonts/Roboto-Medium.ttf"/>
+    <file src="fonts/Roboto-Regular.otf"/>
+</meta>

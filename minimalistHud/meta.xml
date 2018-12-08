@@ -1,0 +1,4 @@
+<meta>
+	<info author="Jmaniacs" description="Modern Hud" version="1" type="Misc" />
+	<script src="client.lua" type="client" cache="false" compile="1"/>
+</meta>

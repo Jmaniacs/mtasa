@@ -1,0 +1,16 @@
+<meta>
+<info name="Login Panel" author="Jmaniacs" version="0.0.1" type="script" />
+	<script src="server.lua" type="server"  cache="false" />
+	<script src="client.lua" type="client" cache="false" />
+	<include resource="notices" />
+	
+	
+	<file src="images/LoginP.png" />	
+	<file src="images/RegisterP.png" />
+	<file src="images/Pa.png" />
+	<file src="images/Menu.png" />
+	<file src="images/bg.png" />
+	<file src="images/music.mp3" />
+	<file src="images/Dosis.ttf" />
+
+</meta>

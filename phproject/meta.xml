@@ -1,0 +1,5 @@
+<meta>
+	<info name="Test PH" author="Jmaniacs" version="1" type="script" />
+	<script src="server.lua" type="server"  cache="false" />
+	<script src="client.lua" type="client" cache="false" />
+</meta>

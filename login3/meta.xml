@@ -1,0 +1,14 @@
+<meta>
+    <info author="Jmaniacs" version="1.0" name="Login 3" type="script" />
+    <script src="client.lua" type="client"/>
+	<script src="server.lua" type="server"/>
+	<!--images-->
+	<file src="images/window.png"/>
+	<file src="images/tab.png"/>
+	<file src="images/button_mouse.png"/>
+	<file src="images/button_standart.png"/>
+	<!--xml-->
+	<config src="files/xml/userdata.xml" type="client" />
+    <!--sonido-->	
+	<file src="Join.mp3"/>
+</meta>

@@ -1,0 +1,5 @@
+<meta>
+	<info author="Jmaniacs" type="script" version="1.0" description="lib"/>
+
+	<script src="client.lua" type="client"/>
+</meta>

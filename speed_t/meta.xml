@@ -1,0 +1,15 @@
+<meta>
+	<script src="client.lua" type="client"/>
+	
+	<file src="files/fon_speed.png"/>
+	<file src="files/door_close.png"/>
+	<file src="files/door_open.png"/>
+	<file src="files/light_l_off.png"/>
+	<file src="files/light_l_on.png"/>
+	<file src="files/light_r_off.png"/>
+	<file src="files/light_r_on.png"/>
+	<file src="files/lights_off.png"/>
+	<file src="files/lights_on.png"/>
+	<file src="files/engine_off.png"/>
+	<file src="files/engine_on.png"/>
+</meta>	

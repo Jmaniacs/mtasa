@@ -1,0 +1,7 @@
+<meta>
+	<info author="Jmaniacs" type="script" name="Cloths-System"  version="1.0.0" />
+
+	<script src="main.lua" type="client" />
+	
+	<export function="drawWindow" type="client"/>
+</meta>
