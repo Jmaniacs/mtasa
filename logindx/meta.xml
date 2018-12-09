@@ -1,0 +1,10 @@
+<meta>
+	<info name="Login Panel" author="Jmaniacs" version="0.0.1" type="script" />
+	<script src="server.lua" type="server"  cache="false" />
+	<script src="client.lua" type="client" cache="false" />
+	
+	<aclrequest>
+	<right name="function.logIn" access="true" />
+	<right name="function.addAccount" access="true" />
+    </aclrequest>
+</meta>
